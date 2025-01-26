@@ -80,7 +80,22 @@ E:/flaskblog
 3. Create, edit, or delete posts, and manage your profile settings.
 
 ## Screenshots
-*Include screenshots of the application, such as the home page, user profile, and post creation view.*
+![SigUp](https://github.com/user-attachments/assets/142cc6cf-c7d7-49df-87d2-f7ec89bdd009)
+
+![HomePage](https://github.com/user-attachments/assets/75c9b746-4a3c-4af4-86ea-e410805e5203)
+
+![Profile_page](https://github.com/user-attachments/assets/1ad427ce-1f25-4bfb-a864-66cfef57c0d1)
+
+![Login page](https://github.com/user-attachments/assets/d6f1086e-eda3-47ed-bd6a-4fca4b56b867)
+
+![New_Post](https://github.com/user-attachments/assets/b508dd6f-3d7e-469f-8b03-2915b83359d7)
+
+
+![Reset Password](https://github.com/user-attachments/assets/d4b450ee-5903-4708-928d-2ea059ff908a)
+
+
+
+
 
 ## Technologies Used
 - **Backend**: Flask, SQLAlchemy
@@ -91,5 +106,3 @@ E:/flaskblog
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
